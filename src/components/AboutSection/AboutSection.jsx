@@ -17,11 +17,11 @@ function AboutSection() {
 
   return (
     <>
-      <section id="about-section" className="relative w-full h-screen">
+      <section id="about-section" className="relative w-full h-screen p-5 mt-5">
         <div className="w-full">
           <h2 className="justify-center flex text-4xl font-akaya">About Me</h2>
         </div>
-
+        <span className="w-full flex justify-center">lkasjdf</span>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita
           dolorum amet impedit rem, qui quia vel debitis necessitatibus autem
