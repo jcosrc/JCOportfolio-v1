@@ -22,6 +22,7 @@ function AboutSection() {
           <h2 className="justify-center flex text-4xl font-akaya">About Me</h2>
         </div>
         <span className="w-full flex justify-center">lkasjdf</span>
+        <h1>Follow up testing</h1>
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Expedita
           dolorum amet impedit rem, qui quia vel debitis necessitatibus autem
