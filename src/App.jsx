@@ -42,13 +42,13 @@ function App() {
         {/* ✅ Sticky header stays visible */}
         <HeroSection />
         <AboutSection />
-        <ContactSection />
+        {/* <ContactSection /> */}
       </div>
-      <div className="min-h-screen flex items-center justify-center p-4">
+      {/* <div className="min-h-screen flex items-center justify-center p-4">
       <DetailCard items={sampleData} />
     </div>
 
-    <HeroCarousel />
+    <HeroCarousel /> */}
     </>
   );
 }

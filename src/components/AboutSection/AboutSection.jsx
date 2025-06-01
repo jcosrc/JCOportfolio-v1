@@ -18,7 +18,13 @@ function AboutSection() {
   return (
     <>
       <section id="about-section" className="relative w-full h-screen p-5 mt-5">
-        <div className="w-full">
+
+        <div className="w-full h-screen flex justify-center items-center text-4xl text-pallete-orange">
+          Coming Soon
+        </div>
+        
+
+        {/* <div className="w-full">
           <h2 className="justify-center flex text-4xl font-akaya">About Me</h2>
         </div>
         <span className="w-full flex justify-center">lkasjdf</span>
@@ -50,7 +56,7 @@ function AboutSection() {
           dicta cupiditate officia magni minima ad. My goal is to create
           meaningful, user-friendly experiences that make a difference. Feel
           free to reach out if you'd like to connect or collaborate!
-        </p>
+        </p> */}
       </section>
     </>
   );
